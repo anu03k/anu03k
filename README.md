@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu03k&label=Profile%20views&color=0e75b6&style=flat" alt="anu03k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anu03k" alt="anu03k" /></a> </p>
+
 
 - 🌱 I’m currently learning **React js**
 
